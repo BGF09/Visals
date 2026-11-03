@@ -1,5 +1,4 @@
-name: Build Fabric Mod
-on: [push, workflow_dispatch]
+: [push, workflow_dispatch]
 jobs:
   build:
     runs-on: ubuntu-latest
